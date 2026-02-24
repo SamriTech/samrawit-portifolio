@@ -26,7 +26,7 @@ function Projects() {
               title="AI Meeting Summarizer — Conversational Intelligence"
               description={`Converts multi-speaker meeting audio into structured transcripts and summarizes action items. Built with Python, NLP, Llama 3.3, AssemblyAI, Pandas, Plotly and deployed on Streamlit Cloud.`}
               demoLink="https://meeting-summarizer-ethiopian.streamlit.app/"
-              ghLink="https://github.com/SamriTech"
+              ghLink="https://github.com/SamriTech/AI-Meeting-Summarizer"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               title="Detection of Diabetes — Supervised ML"
               description={`Predicts diabetes using supervised ML models. Implemented with Python, Scikit-learn and Streamlit; includes an interactive demo for testing and visualization.`}
               demoLink="https://detectionofdiabetesusingsupervisedmachinelearning.streamlit.app/"
-              ghLink="https://github.com/SamriTech"
+              ghLink="https://github.com/SamriTech/Diabetes_detection"
             />
           </Col>
 
@@ -117,7 +117,7 @@ function Projects() {
               isBlog={false}
               title="Personal Portfolio Website"
               description={`Designed and deployed a responsive portfolio using HTML, CSS and JavaScript to showcase projects across devices.`}
-              ghLink="https://github.com/Yonaaaaaaaaaaaaas/Group-Project-2-MobileApp"
+              ghLink="https://github.com/SamriTech/samrawit-portifolio"
             />
           </Col>
         </Row>
